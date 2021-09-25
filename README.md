@@ -1,2 +1,2 @@
-# webb
-Just a static page. Nothing new.
+# PersonalPage
+Just a Personal webpage describing my skills, personal projects and experiences. 
